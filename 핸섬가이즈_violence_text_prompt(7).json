@@ -1,0 +1,161 @@
+{
+    "dialogues": [
+        {
+            "violence": {
+                "isViolent": false,
+                "reason": "The phrase '그 새끼 말이야' is informal and may be considered disrespectful or offensive, but it does not contain any explicit physical violence, threat, or abusive content in itself. The phrase uses a derogatory term that could be interpreted as verbally aggressive, but without additional context of physical violence or threat, it remains non-violent."
+            },
+            "rating": "12세 관람가"
+        },
+        {
+            "dialogue": "[00:00:03 - 00:00:05] 졸라 찜찜하지 않냐?",
+            "violence": false,
+            "reason": "이 대사는 어떠한 물리적 폭력이나 신체 상해를 묘사하거나 암시하지 않습니다. '졸라'는 감정을 강조하는 표현일 뿐, 폭력을 나타내는 것이 아닙니다. 따라서 폭력성은 없습니다.",
+            "rating": "전체관람가"
+        },
+        {
+            "대사": "[00:00:06 - 00:00:07] 왜요?",
+            "폭력성_여부": false,
+            "폭력성_여부_이유": "이 대사는 상황에 대한 질문이나 의문을 나타내는 표현으로, 신체적 폭력이나 심리적 압박, 위협적인 요소가 전혀 포함되어 있지 않습니다.",
+            "한국_영상물_등급": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:07 - 00:00:10] 그런 면상들에 아무것도 안 나올 리가 없잖아",
+            "violence": {
+                "isViolent": false,
+                "reason": "대사는 직접적인 물리적 폭력이나 상해, 유혈 등의 표현이 없으며, 공격적인 표현이나 특정한 위협의 맥락으로 해석되기 어렵다. 문맥적으로 모욕감을 줄 수 있는 표현일 수 있으나, 명확한 폭력의 묘사는 없다."
+            },
+            "rating": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:13 - 00:00:15] 사진이랑 많이 다르네요",
+            "violence": false,
+            "reason": "대사는 외모에 대한 의견을 나타내고 있으며, 물리적 폭력이나 상해, 유혈, 신체훼손 등의 표현이 전혀 포함되어 있지 않습니다. 또한 성적인 요소나 폭력적인 느낌을 주는 표현도 없습니다.",
+            "rating": "전체관람가"
+        },
+        {
+            "analyzed_dialogue": "[00:00:18 - 00:00:19] 시바",
+            "violence": {
+                "presence": false,
+                "reason": "The dialogue consists of a single Korean swear word that is commonly used to express frustration or anger. It does not directly indicate or describe any form of physical violence, harm, injury, or describe a violent scenario."
+            },
+            "rating": "15세 관람가"
+        },
+        {
+            "dialogue": "[00:00:20 - 00:00:21] 에?",
+            "violence": {
+                "isViolent": false,
+                "reason": "The dialogue consists of a single interjection '에?', which does not convey any physical or verbal aggression, threat, or implication of violence. It lacks context, but in isolation, it does not suggest any violent intent or consequence."
+            },
+            "rating": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:21 - 00:00:22] 시보",
+            "violence": false,
+            "reason": "The dialogue only contains the term '시보', which lacks any context or content involving physical violence, injury, or harm. There is no suggestion of violent language or implications, nor does it include any elements related to sexual violence or disturbing audio-visual effects.",
+            "rating": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:22 - 00:00:23] 시불?",
+            "violence": false,
+            "reason": "The phrase '시불' is a colloquial contraction of a longer, potentially offensive Korean phrase. However, in isolation and without explicit context, it does not convey physical violence, harm, or explicit threatening content. The phrase, in itself, does not describe or reference any violent act or scenario.",
+            "rating": "15세 관람가"
+        },
+        {
+            "대사": "[00:00:30 - 00:00:32] 저거 미나 맞지?",
+            "폭력성 여부": false,
+            "폭력성 여부에 대한 이유": "해당 대사는 특정인을 확인하는 질문으로, 물리적 폭력, 상해, 유혈, 성희롱 등 폭력적인 요소가 포함되어 있지 않습니다. 따라서 폭력성과 관련이 없습니다.",
+            "한국 영상물 등급": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:32 - 00:00:33] 뭐 납치?",
+            "violence": {
+                "isViolent": true,
+                "reason": "The use of the word 'kidnapping' suggests an act of violence since kidnapping inherently involves taking someone against their will, often with a threat or use of force.",
+                "rating": "15세 관람가"
+            }
+        },
+        {
+            "00:00:33 - 00:00:35": {
+                "폭력성 여부": false,
+                "이유": "대사는 특정한 신체적 위협이나 폭력적 행동을 포함하지 않고 있으며, 단순히 빠르게 어떤 작업을 하라는 지시를 내리는 내용으로 해석됩니다. 따라서 물리적 폭력, 상해, 유혈 등과 관련된 표현이 없습니다.",
+                "한국 영상물 등급": "전체관람가"
+            }
+        },
+        {
+            "dialogue": "[00:00:35 - 00:00:36] 됐네!",
+            "violence": false,
+            "reason": "The dialogue '됐네!' is extremely brief and does not contain any language or context indicating physical violence, harm, injury, or any form of abuse. There is no indication of threatening or violent conduct, and the phrase '됐네!' is a casual expression common in non-violent settings.",
+            "rating": "전체관람가"
+        },
+        {
+            "대사": "[00:00:38 - 00:00:40] 진짜 무서워",
+            "폭력성 여부": false,
+            "이유": "해당 대사는 단순히 무서움을 표현하는 것으로, 신체적 폭력이나 상해에 관한 구체적인 언급이 없어 폭력성을 띠지 않습니다.",
+            "한국 영상물 등급": "전체관람가"
+        },
+        {
+            "dialogue": "[00:00:43 - 00:00:44] 아 참",
+            "violence_presence": false,
+            "reason": "이 대사는 일반적인 일상 대화로 물리적 폭력이나 신체적, 심리적 피해를 암시하는 표현이 전혀 없습니다. 따라서 폭력성과 관련이 없습니다.",
+            "korean_film_rating": "전체관람가"
+        },
+        {
+            "dialogue_analysis": [
+                {
+                    "dialogue": "[00:00:44 - 00:00:46] 아까 이 앞에서 학생 친구들 만났다",
+                    "is_violent": false,
+                    "reasoning": "해당 대사는 일상적인 만남을 기술하는 것으로, 신체적 폭력, 상해, 유혈, 신체훼손, 성폭력 등 어떤 형태의 폭력적 요소도 포함하지 않습니다. 따라서 폭력성 여부는 '아니오'로 판단됩니다.",
+                    "korean_age_rating": "전체관람가"
+                }
+            ]
+        },
+        {
+            "text": "[00:00:47 - 00:00:50]   다들 말벌들 보듯 말은 막 기겁하고 도망가더라",
+            "is_violent": null,
+            "reason": "오류 발생: Expecting value: line 3 column 13 (char 73)",
+            "rating": null
+        },
+        {
+            "dialogue": "[00:00:52 - 00:00:55] 연쇄 살인마들이 자기를 과시할 때 전시해놓는 방식이야",
+            "analysis": {
+                "violence": true,
+                "reason": "대사에서 '연쇄 살인마들'과 그들의 과시 방법을 언급하며, 이는 폭력적인 주제와 관련된 내용을 포함하고 있습니다. 직접적인 폭력 행위나 신체 훼손이 묘사되지는 않았지만, 사회적으로 폭력적인 범죄와 연관된 언급은 폭력성을 내포한다고 볼 수 있습니다.",
+                "classification": "15세 관람가"
+            }
+        },
+        {
+            "violence": false,
+            "reason": "대사는 상대방에 대한 욕설이 포함되어 있어 언어적인 공격성을 내포하지만, 물리적 폭력이나 신체 훼손을 구체적으로 묘사하거나 암시하지 않으며, 신체 부위나 도구를 이용한 폭력에 대한 직접적인 표현이 없다.",
+            "rating": "15세 관람가"
+        },
+        {
+            "대사": "[00:00:58 - 00:00:59] 전기통 살인마석",
+            "폭력성 여부": true,
+            "폭력성 여부에 대한 이유": "대사에서 '살인마'라는 표현이 사용되어 직간접적으로 살인과 관련된 폭력을 암시하고 있습니다. 이는 단어 자체만으로도 강한 폭력성을 내포하고 있으며, 이로 인해 폭력성의 요소가 있다고 판단됩니다.",
+            "한국 영상물 등급": "15세 관람가"
+        },
+        {
+            "dialogue": "[00:00:59 - 00:01:01] 지금도 개흥분 상태야",
+            "violence": {
+                "isViolent": false,
+                "reason": "대사에는 물리적 폭력이 표현되지 않았고, 신체 부위나 도구를 이용한 폭력적인 묘사가 전혀 없다. 또한 상해나 신체 훼손의 암시는 없다."
+            },
+            "rating": "전체관람가"
+        },
+        {
+            "대사": "[00:01:01 - 00:01:02] 친구분들 오셨네",
+            "폭력성": false,
+            "이유": "해당 대사는 '친구분들 오셨네'라는 인사말로, 어떤 형태의 물리적 폭력, 상해, 유혈, 신체 훼손, 또는 성적인 폭력을 암시하거나 표현하지 않는다.",
+            "한국 영상물 등급": "전체관람가"
+        },
+        {
+            "dialogue": "[00:01:04 - 00:01:06] 이건 또 무슨 일이에요?",
+            "violence": false,
+            "reason": "해당 대사는 단순한 질문 형태로, 폭력적이지 않으며, 누구에게도 신체적 또는 정신적 해를 직접적으로 언급하거나 암시하지 않습니다.",
+            "rating": "전체관람가"
+        }
+    ],
+    "final_rating": "15세 관람가",
+    "final_reason": "이유 없음"
+}

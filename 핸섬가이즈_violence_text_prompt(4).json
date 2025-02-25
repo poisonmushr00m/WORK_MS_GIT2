@@ -1,0 +1,141 @@
+{
+    "results": [
+        {
+            "text": "그 새끼 말이야",
+            "is_violent": "True",
+            "explanation": "대사에서 사용된 언어는 모욕적이며 공격적인 표현으로, 폭력성을 내포할 수 있습니다."
+        },
+        {
+            "text": "졸라 찜찜하지 않냐?",
+            "is_violent": "False",
+            "explanation": "해당 대사는 불쾌감이나 불안한 느낌을 표현하는 것으로, 폭력적인 내용은 포함되어 있지 않습니다."
+        },
+        {
+            "text": "왜요?",
+            "is_violent": "False",
+            "explanation": "이 대사는 단순한 질문으로, 폭력적인 요소가 없습니다."
+        },
+        {
+            "text": "그런 면상들에 아무것도 안 나올 리가 없잖아",
+            "is_violent": "True",
+            "explanation": "대사에서 '면상'이라는 표현은 경멸적이며, 다른 사람을 비하하는 의미를 담고 있어 폭력적인 언어로 간주될 수 있습니다."
+        },
+        {
+            "text": "사진이랑 많이 다르네요",
+            "is_violent": "False",
+            "explanation": "해당 대사는 외모에 대한 의견을 표현하는 것으로, 폭력적인 요소나 언어적 위협이 포함되어 있지 않습니다."
+        },
+        {
+            "text": "[00:00:18 - 00:00:19] 시바",
+            "is_violent": "True",
+            "explanation": "비속어 '시바'는 공격적이거나 모욕적인 의도로 사용될 수 있어 폭력적인 언어로 간주됩니다."
+        },
+        {
+            "text": "에?",
+            "is_violent": "False",
+            "explanation": "이 대사는 감탄사로 보이며 폭력적인 요소가 포함되어 있지 않습니다."
+        },
+        {
+            "text": "시보",
+            "is_violent": "False",
+            "explanation": "대사는 단순한 시간 알림과 관련된 내용으로, 폭력적인 요소가 포함되어 있지 않음."
+        },
+        {
+            "text": "시불?",
+            "is_violent": "False",
+            "explanation": "해당 표현은 감정적인 발화이지만, 직접적인 폭력이나 위협을 나타내지는 않습니다."
+        },
+        {
+            "total_texts_analyzed": 1,
+            "total_violent_texts": 0,
+            "total_non_violent_texts": 1,
+            "percentage_violent_texts": 0.0,
+            "percentage_non_violent_texts": 100.0
+        },
+        {
+            "text": "[00:00:30 - 00:00:32] 저거 미나 맞지?",
+            "is_violent": "False",
+            "explanation": "해당 대사는 특정 인물을 인식하는 질문으로 폭력적인 요소가 포함되어 있지 않습니다."
+        },
+        {
+            "text": "뭐 납치?",
+            "is_violent": "True",
+            "explanation": "납치는 일반적으로 강제적이고 폭력적인 행위를 포함하는 범죄로 간주됩니다. 따라서 이 대사는 폭력성을 내포하고 있습니다."
+        },
+        {
+            "text": "[00:00:33 - 00:00:35] 빨리 이거 원회로도 해봐라",
+            "is_violent": "False",
+            "explanation": "이 대사는 명령이나 요청의 형태로, 폭력적인 내용이나 언어를 포함하고 있지 않습니다."
+        },
+        {
+            "text": "됐네!",
+            "is_violent": "False",
+            "explanation": "대사는 간결하고 명령적인 표현일 수 있으나, 폭력적인 요소나 위협적인 내용이 포함되어 있지 않다."
+        },
+        {
+            "text": "진짜 무서워",
+            "is_violent": "False",
+            "explanation": "이 대사는 두려움이나 공포를 표현할 가능성이 있지만, 다른 사람에게 해를 가할 의도나 폭력적인 행동을 암시하지 않기 때문에 폭력적으로 간주되지 않습니다."
+        },
+        {
+            "text": "아 참",
+            "is_violent": "False",
+            "explanation": "해당 대사는 폭력적인 의미나 의도를 포함하고 있지 않습니다."
+        },
+        {
+            "text": "아까 이 앞에서 학생 친구들 만났다",
+            "is_violent": "False",
+            "explanation": "이 대사는 특정한 위협, 공격, 폭력적인 언어를 포함하고 있지 않으며, 단순히 과거의 만남에 대한 설명입니다."
+        },
+        {
+            "text": "[00:00:47 - 00:00:50]   다들 말벌들 보듯 말은 막 기겁하고 도망가더라",
+            "is_violent": "False",
+            "explanation": "이 대사는 말벌을 보듯이 사람들이 기겁하고 도망가는 상황을 묘사하고 있으며, 직접적인 폭력이나 위협을 포함하고 있지 않으므로 폭력적이라고 보기 어렵습니다."
+        },
+        {
+            "total_texts_analyzed": 1,
+            "total_violent_texts": 0,
+            "total_non_violent_texts": 1,
+            "violent_texts_ratio": 0.0,
+            "non_violent_texts_ratio": 1.0
+        },
+        {
+            "text": "연쇄 살인마들이 자기를 과시할 때 전시해놓는 방식이야",
+            "is_violent": "True",
+            "explanation": "대사에서 '연쇄 살인마'라는 단어가 사용되었으며, 이는 폭력적 행동과 관련이 있을 수 있음을 암시합니다."
+        },
+        {
+            "text": "개X들 내가 이럴 줄 알았어",
+            "is_violent": "True",
+            "explanation": "대사에 사용된 비속어와 경멸적인 표현이 포함되어 있어 폭력적인 언어로 간주될 수 있습니다."
+        },
+        {
+            "text": "[00:00:58 - 00:00:59] 전기통 살인마석",
+            "is_violent": "True",
+            "explanation": "대사에 '살인마'라는 단어가 포함되어 있으며, 이는 폭력적인 행동이나 성향을 암시합니다."
+        },
+        {
+            "total_texts_analyzed": 1,
+            "total_violent_texts": 1,
+            "total_non_violent_texts": 0,
+            "violent_texts_ratio": 1.0,
+            "non_violent_texts_ratio": 0.0
+        },
+        {
+            "text": "지금도 개흥분 상태야",
+            "is_violent": "False",
+            "explanation": "이 대사는 흥분 상태를 표현하고 있지만, 구체적인 폭력적인 행동이나 위협을 포함하고 있지 않습니다."
+        },
+        {
+            "text": "친구분들 오셨네",
+            "is_violent": "False",
+            "explanation": "이 대사는 단순히 친구들이 도착했음을 알리는 내용이며, 폭력적인 요소가 전혀 포함되어 있지 않습니다."
+        },
+        {
+            "text": "이건 또 무슨 일이에요?",
+            "is_violent": "False",
+            "explanation": "이 대사는 상황에 대한 질문으로, 폭력적인 내용이나 의도가 포함되어 있지 않습니다."
+        }
+    ],
+    "summary": null
+}

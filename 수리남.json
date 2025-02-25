@@ -1,0 +1,392 @@
+[
+    {
+        "image_name": "frame_001.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.41187697649002075",
+        "classification": false
+    },
+    {
+        "image_name": "frame_002.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.3312947154045105",
+        "classification": false
+    },
+    {
+        "image_name": "frame_003.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.3375988006591797",
+        "classification": false
+    },
+    {
+        "image_name": "frame_004.png",
+        "best_caption": "A character with a terrified facial expression",
+        "highest_prob": "0.4241512417793274",
+        "classification": true
+    },
+    {
+        "image_name": "frame_005.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8146470189094543",
+        "classification": false
+    },
+    {
+        "image_name": "frame_006.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.27491697669029236",
+        "classification": false
+    },
+    {
+        "image_name": "frame_007.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8699476718902588",
+        "classification": false
+    },
+    {
+        "image_name": "frame_008.png",
+        "best_caption": "An image with sudden jump-scare effects",
+        "highest_prob": "0.6325197815895081",
+        "classification": true
+    },
+    {
+        "image_name": "frame_009.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.5668864250183105",
+        "classification": false
+    },
+    {
+        "image_name": "frame_010.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8197956085205078",
+        "classification": false
+    },
+    {
+        "image_name": "frame_011.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.32161518931388855",
+        "classification": false
+    },
+    {
+        "image_name": "frame_012.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8054778575897217",
+        "classification": false
+    },
+    {
+        "image_name": "frame_013.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.252998411655426",
+        "classification": false
+    },
+    {
+        "image_name": "frame_014.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7706997394561768",
+        "classification": false
+    },
+    {
+        "image_name": "frame_015.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2665407359600067",
+        "classification": false
+    },
+    {
+        "image_name": "frame_016.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.22190891206264496",
+        "classification": false
+    },
+    {
+        "image_name": "frame_017.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.6166590452194214",
+        "classification": false
+    },
+    {
+        "image_name": "frame_018.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7719789147377014",
+        "classification": false
+    },
+    {
+        "image_name": "frame_019.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.6134506464004517",
+        "classification": false
+    },
+    {
+        "image_name": "frame_020.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.49913710355758667",
+        "classification": false
+    },
+    {
+        "image_name": "frame_021.png",
+        "best_caption": "An image with sudden jump-scare effects",
+        "highest_prob": "0.4337643086910248",
+        "classification": true
+    },
+    {
+        "image_name": "frame_022.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2066197246313095",
+        "classification": false
+    },
+    {
+        "image_name": "frame_023.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8925237655639648",
+        "classification": false
+    },
+    {
+        "image_name": "frame_024.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.646568238735199",
+        "classification": false
+    },
+    {
+        "image_name": "frame_025.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.3361485004425049",
+        "classification": false
+    },
+    {
+        "image_name": "frame_026.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.6459531188011169",
+        "classification": false
+    },
+    {
+        "image_name": "frame_027.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.34585079550743103",
+        "classification": false
+    },
+    {
+        "image_name": "frame_028.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.26445063948631287",
+        "classification": false
+    },
+    {
+        "image_name": "frame_029.png",
+        "best_caption": "A dark atmosphere with threatening elements",
+        "highest_prob": "0.4643382728099823",
+        "classification": true
+    },
+    {
+        "image_name": "frame_030.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.5794013142585754",
+        "classification": false
+    },
+    {
+        "image_name": "frame_031.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.9797797799110413",
+        "classification": false
+    },
+    {
+        "image_name": "frame_032.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.397551029920578",
+        "classification": false
+    },
+    {
+        "image_name": "frame_033.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.37291964888572693",
+        "classification": false
+    },
+    {
+        "image_name": "frame_034.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8236172199249268",
+        "classification": false
+    },
+    {
+        "image_name": "frame_035.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7934914827346802",
+        "classification": false
+    },
+    {
+        "image_name": "frame_036.png",
+        "best_caption": "A character with a terrified facial expression",
+        "highest_prob": "0.6336456537246704",
+        "classification": true
+    },
+    {
+        "image_name": "frame_037.png",
+        "best_caption": "A scene that evokes psychological fear and suffering",
+        "highest_prob": "0.49612492322921753",
+        "classification": true
+    },
+    {
+        "image_name": "frame_038.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2803873121738434",
+        "classification": false
+    },
+    {
+        "image_name": "frame_039.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7811899781227112",
+        "classification": false
+    },
+    {
+        "image_name": "frame_040.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.18833452463150024",
+        "classification": false
+    },
+    {
+        "image_name": "frame_041.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.308009535074234",
+        "classification": false
+    },
+    {
+        "image_name": "frame_042.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7176145911216736",
+        "classification": false
+    },
+    {
+        "image_name": "frame_043.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7580801844596863",
+        "classification": false
+    },
+    {
+        "image_name": "frame_044.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.23241004347801208",
+        "classification": false
+    },
+    {
+        "image_name": "frame_045.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.9214118123054504",
+        "classification": false
+    },
+    {
+        "image_name": "frame_046.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.4132445752620697",
+        "classification": false
+    },
+    {
+        "image_name": "frame_047.png",
+        "best_caption": "A visual effect that creates an eerie atmosphere",
+        "highest_prob": "0.7394940257072449",
+        "classification": true
+    },
+    {
+        "image_name": "frame_048.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2893065810203552",
+        "classification": false
+    },
+    {
+        "image_name": "frame_049.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.20149970054626465",
+        "classification": false
+    },
+    {
+        "image_name": "frame_050.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8269448280334473",
+        "classification": false
+    },
+    {
+        "image_name": "frame_051.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.9036189913749695",
+        "classification": false
+    },
+    {
+        "image_name": "frame_052.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2785003185272217",
+        "classification": false
+    },
+    {
+        "image_name": "frame_053.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.30155277252197266",
+        "classification": false
+    },
+    {
+        "image_name": "frame_054.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.5409358143806458",
+        "classification": false
+    },
+    {
+        "image_name": "frame_055.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.395614892244339",
+        "classification": false
+    },
+    {
+        "image_name": "frame_056.png",
+        "best_caption": "An image with sudden jump-scare effects",
+        "highest_prob": "0.5024216771125793",
+        "classification": true
+    },
+    {
+        "image_name": "frame_057.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.35956498980522156",
+        "classification": false
+    },
+    {
+        "image_name": "frame_058.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.4065261483192444",
+        "classification": false
+    },
+    {
+        "image_name": "frame_059.png",
+        "best_caption": "An image with sudden jump-scare effects",
+        "highest_prob": "0.5773250460624695",
+        "classification": true
+    },
+    {
+        "image_name": "frame_060.png",
+        "best_caption": "A visual effect that creates an eerie atmosphere",
+        "highest_prob": "0.7365082502365112",
+        "classification": true
+    },
+    {
+        "image_name": "frame_061.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.3945379853248596",
+        "classification": false
+    },
+    {
+        "image_name": "frame_062.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.4810805916786194",
+        "classification": false
+    },
+    {
+        "image_name": "frame_063.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.8772727251052856",
+        "classification": false
+    },
+    {
+        "image_name": "frame_064.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.7049095034599304",
+        "classification": false
+    },
+    {
+        "image_name": "frame_065.png",
+        "best_caption": "non-horror",
+        "highest_prob": "0.2675117254257202",
+        "classification": false
+    }
+]
